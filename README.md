@@ -63,4 +63,4 @@ Overall takeaway: **simple models + good preprocessing can be very competitive**
 Each file is a standalone `.py` script derived from the original notebooks.  
 Some scripts include multiple configurations or variants of the same model.
 
-> *ChatGPT was used to assist with report structuring and code refactoring.*
+> *ChatGPT was used to assist with report structuring*
