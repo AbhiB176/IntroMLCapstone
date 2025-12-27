@@ -1,6 +1,6 @@
 # Intro ML Capstone — Housing Price Prediction
 
-Capstone project for an **Introductory Machine Learning** course at UNC Charlotte.  
+Capstone project for a **graduate-level Introductory Machine Learning** course at UNC Charlotte.  
 This project compares **classical regression models** with **research-inspired ensemble methods** on the Ames Housing dataset (Kaggle).
 
 The focus is on **preprocessing, model comparison, and generalization**, not leaderboard optimization.
